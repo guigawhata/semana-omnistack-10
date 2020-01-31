@@ -1,0 +1,7 @@
+backend/node_modules
+mobile/node_modules
+mobile/.expo
+mobile/.expo-shared
+mobile/.babel.config.js
+web/node_modules
+web/.vscode
